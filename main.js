@@ -81,5 +81,7 @@ console.log(value2);
 //Functions Can take other functions as input i.e CALLBACKS
 //setTimeout
 
-
-asdbnaskdbnasnbdkjasnbdjklnasd
+const value3= findSum(1, 2)
+const value24= findSum(1, 10)
+console.log(value);
+console.log(value2);
