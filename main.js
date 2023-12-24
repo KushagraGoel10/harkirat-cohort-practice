@@ -83,5 +83,14 @@ console.log(value2);
 
 const value3= findSum(1, 2)
 const value24= findSum(1, 10)
-console.log(value);
-console.log(value2);
+console.log(value3);
+console.log(value24);
+
+
+const value32= findSum(1,2 )
+const value332= findSum (1,20 )
+console.log(value32);
+console.log(value332);
+
+
+const value322=fi
